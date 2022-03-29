@@ -1,0 +1,6 @@
+products` (`pid`, `productcode`, `productname`, `costprice`, `sellingprice`, `brand`) VALUES
+(73, 'prod3', 'qq', 3, 2, '4d'),
+(72, 'prod2', 'pen', 20, 30, 'techno'),
+(71, 'prod1', 'wai wai', 400, 450, 'cg'),
+(74, 'prod4', 'wai wai', 400, 450, 'cg2'),
+(78, 'prod5', 'Mobile', 500, 700, 'cg');
